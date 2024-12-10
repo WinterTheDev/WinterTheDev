@@ -1,7 +1,7 @@
 ![My headshot](images/banner.png)
 
 # Rhulani Mogotsi
-### Software Engineer and Web Developer
+### Software Engineer and Web Developer of 4 years
 
 I am **Rhulani Mogotsi**, an Entry-Level Developer with a passion for coding, an eagerness for problem solving and strong foundations in both Front-End and Back-End development.
 
