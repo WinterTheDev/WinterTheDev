@@ -1,4 +1,4 @@
-![My headshot](images/banner.jpg)
+![My headshot](images/banner.png)
 
 # Rhulani Mogotsi
 ### Software Engineer and Web Developer
