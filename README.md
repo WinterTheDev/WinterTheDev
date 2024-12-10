@@ -6,6 +6,7 @@
 I am **Rhulani Mogotsi**, an Entry-Level Developer with a passion for coding, an eagerness for problem solving and strong foundations in both Front-End and Back-End development.
 
 This is a collection of some of my best works, consisting of freelance projects, internship work and otherwise.
+*Certain projects are set to private, by request of the client*
 
 ## My Interests
 
@@ -18,5 +19,5 @@ This is a collection of some of my best works, consisting of freelance projects,
 
 ## My Aspirations
 
-- To usher in the age of Electric Cars
-- To help humankind colonize the moon
+- To help usher in the age of Electric Cars
+- To aid in humanity's goal to inhabit the moon
