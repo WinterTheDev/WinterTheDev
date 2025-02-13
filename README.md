@@ -1,4 +1,4 @@
-![My headshot](images/banner.png)
+![My headshot]('images/winterthedev banner.png')
 
 # Rhulani Mogotsi
 ### Software Engineer and Web Developer of 4 years
