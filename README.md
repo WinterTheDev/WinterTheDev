@@ -1,9 +1,9 @@
 ![My headshot](images/winterthedev_banner.png)
 
-# Rhulani Mogotsi
+# Winter the Dev
 ### Software Engineer and Web Developer of 4 years
 
-I am **Rhulani Mogotsi**, an Entry-Level Developer with a passion for coding, an eagerness for problem solving and strong foundations in both Front-End and Back-End development.
+I am **Winter the Dev**, an Entry-Level Developer with a passion for coding, an eagerness for problem solving and strong foundations in both Front-End and Back-End development.
 
 This is a collection of some of my best works, consisting of freelance projects, internship work and otherwise.
 *Certain projects are set to private, by request of the client*
